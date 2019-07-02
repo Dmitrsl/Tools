@@ -19,5 +19,9 @@ https://github.com/flennerhag/mlens
 
 https://dyakonov.org/2019/04/19/ансамбли-в-машинном-обучении/
 
+https://neurohive.io/ru/osnovy-data-science/ansamblevye-metody-begging-busting-i-steking/
+
+
+
 
 
