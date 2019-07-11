@@ -1,0 +1,8 @@
+ssl_verify: true
+channels:
+  - conda-forge
+  - anaconda-fusion
+  - defaults
+proxy_servers:
+  http: http:/daslabuhin:Lbgkthybyu252n@chr-proxy.severstal.severstalgroup.com:8080
+  https: https://daslabuhin:Lbgkthybyu252n@chr-proxy.severstal.severstalgroup.com:8080
