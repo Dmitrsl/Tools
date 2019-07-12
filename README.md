@@ -28,3 +28,7 @@ https://neurohive.io/ru/osnovy-data-science/ansamblevye-metody-begging-busting-i
 ## Bag of Tricks for Image Classification with Convolutional Neural Networks
 
 https://arxiv.org/pdf/1812.01187.pdf
+
+## The Algorithms
+
+https://github.com/TheAlgorithms/Python
