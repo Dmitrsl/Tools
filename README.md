@@ -32,3 +32,8 @@ https://arxiv.org/pdf/1812.01187.pdf
 ## The Algorithms
 
 https://github.com/TheAlgorithms/Python
+
+## How to Visualize a Decision Tree from a Random Forest in Python using Scikit-Learn
+
+https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c
+
