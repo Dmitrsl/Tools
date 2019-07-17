@@ -37,3 +37,6 @@ https://github.com/TheAlgorithms/Python
 
 https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c
 
+## Галерея лучших блокнотов по ML и Data Science
+
+https://habr.com/ru/post/460321/
