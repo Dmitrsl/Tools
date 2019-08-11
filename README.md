@@ -40,3 +40,7 @@ https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-fo
 ## Галерея лучших блокнотов по ML и Data Science
 
 https://habr.com/ru/post/460321/
+
+## A Recipe for Training Neural Networks
+
+http://karpathy.github.io/2019/04/25/recipe/
