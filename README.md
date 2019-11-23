@@ -69,6 +69,6 @@ https://github.com/DeepVoltaire/AutoAugment
 https://github.com/mgrankin/over9000
 
 
-## hyper optimizer
+## hyper optimizer like hyperopt
 https://optuna.org
 https://github.com/optuna/optuna
