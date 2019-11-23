@@ -60,3 +60,7 @@ Further tsfresh is compatible with pythons pandas and scikit-learn APIs, two imp
 ## mixup
 
 https://github.com/vikasverma1077/manifold_mixup
+
+## AutoAugment
+
+https://github.com/DeepVoltaire/AutoAugment
