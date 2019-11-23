@@ -64,3 +64,6 @@ https://github.com/vikasverma1077/manifold_mixup
 ## AutoAugment
 
 https://github.com/DeepVoltaire/AutoAugment
+
+## Optimizer over9000
+https://github.com/mgrankin/over9000
