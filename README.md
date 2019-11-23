@@ -56,3 +56,7 @@ some characteristics of the time series
 Without tsfresh, you would have to calculate all those characteristics by hand. With tsfresh this process is automated and all those features can be calculated automatically.
 
 Further tsfresh is compatible with pythons pandas and scikit-learn APIs, two important packages for Data Science endeavours in python.
+
+## mixup
+
+https://github.com/vikasverma1077/manifold_mixup
